@@ -1,0 +1,8 @@
+
+export(bf.cal.meta)
+export(hetero)
+importFrom(SQUAREM,fpiter)
+importFrom(rlist,list.append)
+importFrom(stats,integrate)
+importFrom(stats,runif)
+importFrom("stats", "pt", "qnorm", "quantile")
